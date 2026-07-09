@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Md. Nur A Alam Banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Md. Nur A Alam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Nur A Alam</h1>
 <h3 align="center">Full-Stack Developer | Competitive Programmer | 2x IEEE Published Author</h3>
 
 <p align="center">
-  <a href="https://github.com/md-nur-a-alam">
-    <img src="https://komarev.com/ghpvc/?username=md-nur-a-alam&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Md-Nur-A-Alam">
+    <img src="https://komarev.com/ghpvc/?username=Md-Nur-A-Alam&label=PROFILE%20VIEWS&color=00f2fe&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
@@ -128,13 +128,13 @@
 ### 📊 GitHub Statistics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-nur-a-alam&show_icons=true&locale=en&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047" alt="Md. Nur A Alam's GitHub Stats" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Md-Nur-A-Alam&show_icons=true&locale=en&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047" alt="Md. Nur A Alam's GitHub Stats" height="180px" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-nur-a-alam&show_icons=true&locale=en&layout=compact&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Md-Nur-A-Alam&show_icons=true&locale=en&layout=compact&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-nur-a-alam&background=091E21&fire=00F2FE&ring=00F2FE&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=084047" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Nur-A-Alam&background=091E21&fire=00F2FE&ring=00F2FE&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=084047" alt="GitHub Streak Stats" height="180px" />
 </p>
 
 ---
