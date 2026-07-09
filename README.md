@@ -12,6 +12,20 @@
 </p>
 
 <p align="center">
+  <a href="https://www.google.com/maps?q=Dhaka,+Bangladesh" target="_blank">
+    <img src="https://img.shields.io/badge/Dhaka,%20Bangladesh-091E21?style=flat-square&logo=googlemaps&logoColor=00F2FE" alt="Location" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mdnuralam2812@gmail.com">
+    <img src="https://img.shields.io/badge/mdnuralam2812@gmail.com-091E21?style=flat-square&logo=gmail&logoColor=00F2FE" alt="Email" />
+  </a>
+  &nbsp;•&nbsp;
+  <a href="tel:+8801307631378">
+    <img src="https://img.shields.io/badge/%2B880%201307--631378-091E21?style=flat-square&logo=whatsapp&logoColor=00F2FE" alt="Phone" />
+  </a>
+</p>
+
+<p align="center">
   <i>"Fix the cause, not the symptom."</i>
 </p>
 
@@ -27,13 +41,10 @@
       <p>
         I am a goal-oriented <b>Full-Stack Developer</b> specializing in the MERN stack and Next.js. With a strong foundation in Computer Science, database administration, and machine learning research, I build scalable, user-centric web applications and solve complex algorithmic problems.
       </p>
-      
-      <h4>📍 Contact Details & Info</h4>
       <ul>
-        <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
-        <li>📧 <b>Email:</b> <a href="mailto:mdnuralam2812@gmail.com">mdnuralam2812@gmail.com</a></li>
-        <li>📞 <b>Contact Number:</b> +880 1307-631378</li>
         <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering (CGPA 3.96/4.00) from BAUST</li>
+        <li>🏛️ <b>President:</b> BAUST Computer Club (2025 Committee)</li>
+        <li>🔬 <b>Author:</b> 2x IEEE published papers on ML and Computer Vision</li>
       </ul>
     </td>
   </tr>
@@ -154,13 +165,19 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:mdnuralam2812@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdnuralam2812%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://linkedin.com/in/md-nur-a-alam13" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Md._Nur_A_Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-005B60?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/nuralam19170173" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-nuralam19170173-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-005B60?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://fb.com/Md.NurAlamSoikot" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-005B60?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/mdnuraalambaust" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-005B60?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
