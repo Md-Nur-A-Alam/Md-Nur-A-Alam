@@ -134,7 +134,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Nur-A-Alam&background=091E21&fire=00F2FE&ring=00F2FE&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=084047" alt="GitHub Streak Stats" height="180px" />
+  <img src="https://streak-stats.demolab.com/?user=Md-Nur-A-Alam&background=091E21&fire=00F2FE&ring=00F2FE&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=084047" alt="GitHub Streak Stats" height="180px" />
 </p>
 
 ---
