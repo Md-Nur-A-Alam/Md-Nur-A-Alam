@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Nur A Alam</h1>
-<h3 align="center">Full-Stack MERN Developer | Competitive Programmer | 2x IEEE Published Author</h3>
+<h3 align="center">Full-Stack Developer | Competitive Programmer | 2x IEEE Published Author</h3>
 
 <p align="center">
   <a href="https://github.com/md-nur-a-alam">
@@ -24,14 +24,16 @@
     </td>
     <td width="70%" valign="top">
       <h3>🚀 About Me</h3>
-      <p>I am a passionate <b>Full-Stack Developer</b> specializing in crafting clean, high-performance web applications using the MERN stack and Next.js. I have a strong background in competitive programming and academic research, with a keen focus on solving complex algorithmic problems.</p>
+      <p>
+        I am a goal-oriented <b>Full-Stack Developer</b> specializing in the MERN stack and Next.js. With a strong foundation in Computer Science, database administration, and machine learning research, I build scalable, user-centric web applications and solve complex algorithmic problems.
+      </p>
+      
+      <h4>📍 Contact Details & Info</h4>
       <ul>
-        <li>🎓 <b>CS Graduate</b> from Bangladesh Army University of Science and Technology (BAUST), Class of 2025.</li>
-        <li>💻 <b>President</b> of BAUST Computer Club (Committee 2025), leading tech initiatives, workshops, and coding contests.</li>
-        <li>🏆 <b>Competitive Programmer</b>: ICPC Dhaka Regional participant (ICPC 2025). Active on Codeforces, LeetCode, and HackerRank.</li>
-        <li>📝 <b>2x IEEE Published Author</b>, working on machine learning and intelligent automated systems.</li>
-        <li>🌐 All projects & live demos are hosted at <a href="https://md-nur-a-alam-portfolio.vercel.app">md-nur-a-alam-portfolio.vercel.app</a>.</li>
-        <li>📍 Based in <b>Dhaka, Bangladesh</b>.</li>
+        <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
+        <li>📧 <b>Email:</b> <a href="mailto:mdnuralam2812@gmail.com">mdnuralam2812@gmail.com</a></li>
+        <li>📞 <b>Contact Number:</b> +880 1307-631378</li>
+        <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering (CGPA 3.96/4.00) from BAUST</li>
       </ul>
     </td>
   </tr>
@@ -39,12 +41,21 @@
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### ⚡ Current Activities
+
+- 🚀 I am exploring **Next.js** for modern server-side rendered application scaling.
+- 🚧 I’m working on a **tourism website** client.
+- 💼 Working as a **PHP Developer** at SPRO, PRAN-RFL Group.
+- 🏆 Actively practicing competitive programming on Codeforces (Highest Rating: 1089) and Beecrowd (1023+ solved).
+
+---
+
+### 🛠️ Skills & Technologies
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h4>💻 Frontend Development</h4>
+      <h4>💻 Frontend</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -54,7 +65,7 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
     <td valign="top" width="50%">
-      <h4>⚙️ Backend & Databases</h4>
+      <h4>⚙️ Backend & Database</h4>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -65,34 +76,41 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4>📚 Core Programming Languages</h4>
+      <h4>📚 Programming Languages</h4>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     </td>
     <td valign="top" width="50%">
-      <h4>🧠 ML Research & Design Tools</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+      <h4>🔧 Tools & Utilities</h4>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Adobe Photoshop" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
     </td>
   </tr>
 </table>
 
 ---
 
+### 📝 Research & Publications
+
+- 🌾 **[CornNetLite: An Ultralight CNN for Corn Leaf Disease Classification in Low-Resource Agricultural Environments](https://doi.org/10.1109/STI69347.2025.11367604)** (1st Author)
+  - *Conference:* 2025 IEEE 7th International Conference on Sustainable Technologies for Industry 5.0 (STI 2025)
+  - *DOI:* `10.1109/STI69347.2025.11367604`
+- 📑 **[BnLiteBait: An Attention-Based Lightweight Model for Clickbait Detection in Bengali Text](https://doi.org/10.13140/RG.2.2.31280.21766)** (3rd Author)
+  - *Conference:* 3rd International Conference on Big Data, IoT, and Machine Learning (BIM 2025)
+  - *DOI:* `10.13140/RG.2.2.31280.21766`
+
+---
+
 ### 🌟 Featured Projects
 
-- 🏡 **[DreamPlot](https://github.com/Md-Nur-A-Alam/Nur-PH13-A10-DreamPlot-Client)**: A robust, responsive real-estate/property booking portal built using the MERN Stack. Includes property search, booking checkout, administrative panel, dynamic statistics dashboards, and role-based authentication.
-- ⚡ **[Keen Keeper](https://github.com/Md-Nur-A-Alam/Hero-B13-A07-keen_keeper)**: A responsive password management & secure notes-taking app created using React, featuring local encryption/hashing simulation, instant query search, and user-friendly category filters.
-- 🚧 **[Intelligent Hazard Detection](https://github.com/Md-Nur-A-Alam/Intelligent-Hazard-Detection)**: A machine learning and computer vision framework using Jupyter Notebooks to parse real-time camera streams, isolate architectural and environmental anomalies, and generate predictive danger reports.
-- 👥 **[AIUB HRMS](https://github.com/Md-Nur-A-Alam/AIUB_HRMS)**: A collaborative human resource dashboard supporting attendance logs, salary computations, structural role changes, and internal peer requests.
+- 🏡 **[DreamPlot](https://github.com/Md-Nur-A-Alam/Nur-PH13-A10-DreamPlot-Client)**: A robust MERN real-estate property booking platform supporting secure tenant checkouts, dynamic listings search, interactive dashboards, and admin metrics.
+- 🎨 **[Tiles Gallery](https://github.com/Md-Nur-A-Alam/Tiles_Gallery)**: Premium Next.js 15 architectural tile exploration platform featuring multi-provider OAuth (BetterAuth) and MongoDB session management.
+- ⚡ **[Keen Keeper](https://github.com/Md-Nur-A-Alam/Hero-B13-A07-keen_keeper)**: A friendship relationship manager developed in Next.js/React to visualize, search, and track key social interactions with dynamic charts.
 
 ---
 
@@ -110,13 +128,13 @@
 
 ---
 
-### 🏆 Research & Competitive Programming
+### 🏆 Competitive Programming & Leadership
 
 <p align="center">
   <a href="https://orcid.org/0009-0000-9043-4475" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-0009--0000--9043--4475-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Profile" />
   </a>
-  <a href="https://codeforces.com/profile/nur_alam.2812" target="_blank">
+  <a href="https://codeforces.com/profile/Nur_Alam.2812" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-nur__alam.2812-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
   <a href="https://www.leetcode.com/nur_a_alam" target="_blank">
@@ -126,6 +144,10 @@
     <img src="https://img.shields.io/badge/HackerRank-md__nuralam2812-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
   </a>
 </p>
+
+- 🏅 **ICPC Dhaka Regional 2025:** Ranked 135th / 313 teams.
+- 🏅 **ICPC Dhaka Regional Preliminary 2025:** Ranked 41st / 1700+ teams (top 2.4%).
+- 👑 **President, BAUST Computer Club:** Led technical workshops, programming bootcamps, and coordinated university coding contests.
 
 ---
 
@@ -138,13 +160,7 @@
   <a href="https://linkedin.com/in/md-nur-a-alam13" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Md._Nur_A_Alam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/Md.NurAlamSoikot" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Nur_Alam_Soikot-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="https://twitter.com/nuralam19170173" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-nuralam19170173-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://kaggle.com/mdnuraalambaust" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-mdnuraalambaust-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
