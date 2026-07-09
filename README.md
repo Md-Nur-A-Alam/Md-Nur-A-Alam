@@ -130,7 +130,7 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Md-Nur-A-Alam&show_icons=true&locale=en&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047" alt="Md. Nur A Alam's GitHub Stats" height="180px" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Md-Nur-A-Alam&show_icons=true&locale=en&layout=compact&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Md-Nur-A-Alam&show_icons=true&locale=en&layout=compact&bg_color=091E21&title_color=00F2FE&text_color=ffffff&icon_color=00F2FE&border_color=084047&hide=Jupyter%20Notebook,Python" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
