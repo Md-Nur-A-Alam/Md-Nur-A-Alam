@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Md. Nur A Alam Banner" width="100%" />
+  <img src="./assets/banner." alt="Md. Nur A Alam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Nur A Alam</h1>
